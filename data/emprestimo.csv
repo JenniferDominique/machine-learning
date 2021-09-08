@@ -1,0 +1,15 @@
+montante,idade,salario,tem_conta,empresta
+Medio,Senior,Baixo,Sim,Nao
+Medio,Senior,Baixo,Nao,Nao
+Baixo,Senior,Baixo,Sim,Sim
+Alto,Media,Baixo,Sim,Sim
+Alto,Jovem,Alto,Sim,Sim
+Alto,Jovem,Alto,Nao,Nao
+Baixo,Jovem,Alto,Nao,Sim
+Medio,Media,Baixo,Sim,Nao
+Medio,Jovem,Alto,Sim,Sim
+Alto,Media,Alto,Sim,Sim
+Medio,Media,Alto,Nao,Sim
+Baixo,Jovem,Baixo,Nao,Sim
+Baixo,Senior,Alto,Sim,Sim
+Alto,Media,Baixo,Nao,Nao
