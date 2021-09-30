@@ -7,6 +7,5 @@
 Uma árvore de decisão é um mapa dos possíveis resultados de uma série de escolhas relacionadas. Permite que um indivíduo ou organização compare possíveis ações com base em seus custos, probabilidades e benefícios.
 
 Acesse também pelo Google Colab:
-
-* [Tempo bom para jogar tênis](https://colab.research.google.com/drive/1XOwJPkF0VEkNMkaRv8GmejyMlvsgrk7B?usp=sharing)
-* [Conceder empréstimo](https://colab.research.google.com/drive/1xva_sd-hsyxisRpxM15aedtzemlXP2Oy?usp=sharing)
+* [<img title="Colab - jogar tênis" src="https://colab.research.google.com/assets/colab-badge.svg"> Tempo bom para jogar tênis](https://colab.research.google.com/drive/1XOwJPkF0VEkNMkaRv8GmejyMlvsgrk7B?usp=sharing)
+* [<img title="Colab - conceder empréstimo" src="https://colab.research.google.com/assets/colab-badge.svg"> Conceder empréstimo](https://colab.research.google.com/drive/1xva_sd-hsyxisRpxM15aedtzemlXP2Oy?usp=sharing)
