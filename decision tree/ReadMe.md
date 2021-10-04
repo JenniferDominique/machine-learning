@@ -1,5 +1,4 @@
 # 🌳 Árvore de decisão
-
 <p align='center'>
   <img width=350 src='https://media3.giphy.com/media/3orif0iFlJKUTgNYD6/giphy.gif?cid=790b7611b9641cd8726dee8804b6f51948e18181c8c8049d&rid=giphy.gif&ct=g'>
 </p>
