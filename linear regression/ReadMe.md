@@ -9,4 +9,4 @@ A regressão linear diz respeito ao modelo utilizado para ajustar dados e observ
 
 Acesse os projetos também pelo Google Colab:
 * [<img title="Colab - Publicidade x Venda" src="https://colab.research.google.com/assets/colab-badge.svg"> Publicidade x Venda](https://colab.research.google.com/drive/14nP-foynZD-oDIJ-NZYxi5euRaIw7DFV?usp=sharing)
-* * [<img title="Colab - Venda de casas" src="https://colab.research.google.com/assets/colab-badge.svg"> Venda de casas](https://colab.research.google.com/drive/14ymqJ2V5YXFGMjtu86vVBdhGweydYDwM?usp=sharing)
+* [<img title="Colab - Venda de casas" src="https://colab.research.google.com/assets/colab-badge.svg"> Venda de casas](https://colab.research.google.com/drive/14ymqJ2V5YXFGMjtu86vVBdhGweydYDwM?usp=sharing)
