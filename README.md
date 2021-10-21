@@ -68,6 +68,12 @@ Embora façam parte de uma mesma tecnologia, os algoritmos de machine learning s
 
 * [📈 Regressão Linear](https://github.com/JenniferDominique/machine-learning/tree/main/linear%20regression)
 
+
+<p align='center'>
+ <img src='https://github.com/JenniferDominique/machine-learning/blob/main/img/robo.gif' width=400>
+</p>
+
+
 <div id='artigos'/>
 
 ## 📰 Artigos Interessantes
