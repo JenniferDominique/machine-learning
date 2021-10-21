@@ -5,11 +5,13 @@
 ## 📝 Índice
 * [Aprendizado de máquina](#aprendMaquina)
   *  [Supervizionado](#supervisionado)
-  *  [Não Supervisionado](#naoSupervisionado)
+  *  [Não supervisionado](#naoSupervisionado)
   *  [Reforçado](#reforcado)
 * [Algoritmo de Machine Learning](#algoritmo)
   *  [Árvore de decisão](#arvore)
-  *  [Regressão linear](#regressao) 
+  *  [Regressão linear](#regressao)
+* [Artigos interessantes](#artigos)
+* [Professor orientador](#prof)
 
 O aprendizado de máquina (em inglês, machine learning) é um método de análise de dados que automatiza a construção de modelos analíticos. É um ramo da inteligência artificial baseado na ideia de que sistemas podem aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
 É  uma tecnologia onde os computadores tem a capacidade de aprender de acordo com as respostas esperadas por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar.
@@ -65,3 +67,17 @@ Embora façam parte de uma mesma tecnologia, os algoritmos de machine learning s
 <div id='regressao'/>
 
 * [📈 Regressão Linear](https://github.com/JenniferDominique/machine-learning/tree/main/linear%20regression)
+
+<div id='artigos'/>
+
+## 📰 Artigos Interessantes
+(Todos em inglês)
+* [Um guia para os tipos de algoritmos de Machine Learning e seus aplicativos - SAS](https://www.sas.com/en_ie/insights/articles/analytics/machine-learning-algorithms.html)
+* [Qual algoritmo de Machine Learning devo usar? - SAS Blog](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/)
+* [Qual algoritmo de Machine Learning você deve usar por tipo de problema? - Medium/Analytics Vidhya](https://medium.com/analytics-vidhya/which-machine-learning-algorithm-should-you-use-by-problem-type-a53967326566)
+
+
+<div id='prof'/>
+
+## 👨🏻‍🏫 Professor Orientador
+José Walmir G. Duque
