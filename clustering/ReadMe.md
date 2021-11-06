@@ -15,12 +15,12 @@ Para ler e entender mais sobre o assunto acesse o [link](https://www.devmedia.co
 
 
 Notebooks com exemplo de uso do algorítmo:
-* [<img title='Open in GitHub' width=100 src='https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_GitHub.png'> Vendas BMW](https://github.com/JenniferDominique/machine-learning/blob/main/clustering/vendas_BMW.ipynb)
-* [<img title='Open in GitHub' width=100 src='https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_GitHub.png'> Carros](https://github.com/JenniferDominique/machine-learning/blob/main/clustering/cars.ipynb)
+[<img title='Open in GitHub' width=100 src='https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_GitHub.png'> Vendas BMW](https://github.com/JenniferDominique/machine-learning/blob/main/clustering/vendas_BMW.ipynb)
+[<img title='Open in GitHub' width=100 src='https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_GitHub.png'> Carros](https://github.com/JenniferDominique/machine-learning/blob/main/clustering/cars.ipynb)
 
 Acesse os notebooks desses projetos também pelo Google Colab:
-* [<img title="Open in Colab" width=100 src="https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_Colab.png"> Vendas BMW](https://colab.research.google.com/drive/199ooIDvkottBvOqTlSt8zlNqG5lL4o3X?usp=sharing)
-* [<img title="Open in Colab" width=100 src="https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_Colab.png"> Carros](https://colab.research.google.com/drive/1mXFBASbqyP1Wi-OjtKMqBCL964fQaN65?usp=sharing)
+[<img title="Open in Colab" width=100 src="https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_Colab.png"> Vendas BMW](https://colab.research.google.com/drive/199ooIDvkottBvOqTlSt8zlNqG5lL4o3X?usp=sharing)
+[<img title="Open in Colab" width=100 src="https://raw.githubusercontent.com/JenniferDominique/machine-learning/main/img/Button-Open_in_Colab.png"> Carros](https://colab.research.google.com/drive/1mXFBASbqyP1Wi-OjtKMqBCL964fQaN65?usp=sharing)
 
 
 ---
