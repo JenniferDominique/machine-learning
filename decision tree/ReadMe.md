@@ -16,7 +16,7 @@ Em geral, uma árvore de decisão é composta por perguntas e respostas booleana
 
 Para ler mais sobre o assunto acesse o [link](https://www.digitalhouse.com/br/blog/arvore-de-decisao).
 
-Notebooks com exemplo de uso do algorítmo:
+Veja os notebooks com exemplos de uso do algorítmo:
 
 * ### Tempo bom para jogar tênis
 
