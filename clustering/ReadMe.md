@@ -13,8 +13,7 @@ Para gerar as classes e classificar as ocorrências, o algoritmo faz uma compara
 
 Para ler e entender mais sobre o assunto acesse o [link](https://www.devmedia.com.br/data-mining-na-pratica-algoritmo-k-means/4584), acesse também o seguinte [site](https://aprenderdatascience.com/k-means-clustering-agrupamento-k-means/) para se aprofundar mais no assunto.
 
-
-Notebooks com exemplo de uso do algorítmo:
+Veja os notebooks com exemplos de uso do algorítmo:
 
 * ### Vendas BMW
 
