@@ -65,15 +65,15 @@ Embora façam parte de uma mesma tecnologia, os algoritmos de machine learning s
 
 <div id='arvore'/>
 
-* [🌳 Árvore de Decisão](https://github.com/JenniferDominique/machine-learning/tree/main/decision%20tree)
+* [🌳 Árvore de Decisão](https://github.com/JenniferDominique/machine-learning/tree/main/src/decision%20tree)
 
 <div id='regressao'/>
 
-* [📈 Regressão Linear](https://github.com/JenniferDominique/machine-learning/tree/main/linear%20regression)
+* [📈 Regressão Linear](https://github.com/JenniferDominique/machine-learning/tree/main/src/linear%20regression)
 
 <div id='clustering'/>
 
-* [🗃 Clustering (agrupamento) usando K-means](https://github.com/JenniferDominique/machine-learning/tree/main/clustering)
+* [🗃 Clustering (agrupamento) usando K-means](https://github.com/JenniferDominique/machine-learning/tree/main/src/clustering)
 
 <p align='center'>
  <img src='https://github.com/JenniferDominique/machine-learning/blob/main/img/robo.gif' width=400>
