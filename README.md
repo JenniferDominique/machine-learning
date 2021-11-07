@@ -2,16 +2,19 @@
 
 # <p align="center">🤖 Machine Learning</p>
 
-## 📝 Índice
+### 📝 Índice
 * [Aprendizado de máquina](#aprendMaquina)
   *  [Supervizionado](#supervisionado)
   *  [Não supervisionado](#naoSupervisionado)
   *  [Reforçado](#reforcado)
-* [Algoritmo de Machine Learning](#algoritmo)
+* [Algoritmos de Machine Learning](#algoritmo)
   *  [Árvore de decisão](#arvore)
   *  [Regressão linear](#regressao)
+  *  [Clustering (agrupamento) usando K-means](#clustering)
 * [Artigos interessantes](#artigos)
 * [Professor orientador](#prof)
+
+---
 
 O aprendizado de máquina (em inglês, machine learning) é um método de análise de dados que automatiza a construção de modelos analíticos. É um ramo da inteligência artificial baseado na ideia de que sistemas podem aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
 É  uma tecnologia onde os computadores tem a capacidade de aprender de acordo com as respostas esperadas por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar.
@@ -68,6 +71,9 @@ Embora façam parte de uma mesma tecnologia, os algoritmos de machine learning s
 
 * [📈 Regressão Linear](https://github.com/JenniferDominique/machine-learning/tree/main/linear%20regression)
 
+<div id='clustering'/>
+
+* [🗃 Clustering (agrupamento) usando K-means](https://github.com/JenniferDominique/machine-learning/tree/main/clustering)
 
 <p align='center'>
  <img src='https://github.com/JenniferDominique/machine-learning/blob/main/img/robo.gif' width=400>
